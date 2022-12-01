@@ -21,7 +21,7 @@ public class list {
         System.out.println("4 Реверс всех строк");
         System.out.println("5 Статистика по символам");
         System.out.println("6 Поиск подстроки в строках");
-        System.out.println("7 Считать текстовый файл ");
+        System.out.println("7 Считать текстовый файл txt");
         System.out.println("8 Длины строк");
         System.out.println("9 Выгрузка в xml");
 
