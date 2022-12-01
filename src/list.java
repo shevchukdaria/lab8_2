@@ -23,7 +23,7 @@ public class list {
         System.out.println("6 Поиск подстроки в строках");
         System.out.println("7 Считать текстовый файл txt");
         System.out.println("8 Длины строк");
-        System.out.println("9 Выгрузка в xml");
+        System.out.println("9 Выгрузка в xml файл");
 
         do {
             System.out.println("Введите ваш выбор");
